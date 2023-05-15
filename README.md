@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4sq5y3xdvruw72lk?svg=true)](https://ci.appveyor.com/project/DurckinaMilana/object-reflection-proxy)
